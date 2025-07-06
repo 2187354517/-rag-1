@@ -1,10 +1,7 @@
 # -rag-1
 基础的rag项目，基于本地部署的。
-![image](https://github.com/user-attachments/assets/b3be1a01-b90e-49af-b196-a427125a40b8)
 
-![image](https://github.com/user-attachments/assets/db7ff85b-c212-4466-8c00-f3abf73eea1c)
 
-参考https://juejin.cn/column/7470334881735065612文章。
   src
   ├─api                 # api接口
   │  ├─chat             # 聊天接口
